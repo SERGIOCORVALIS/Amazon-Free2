@@ -1,0 +1,6 @@
+{
+  "name": "NovaHub - Alexa+ MCP & Ambient Smart Living Platform",
+  "description": "An ambient intelligence platform featuring an Alexa+ Streamable HTTP MCP Server (spec 2025-11-25), Ring IoT Access Control Simulator, Fire TV 10-foot companion UI, and AWS Bedrock AgentCore orchestration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
